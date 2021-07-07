@@ -1,0 +1,6 @@
+projectKey=SandBox
+serverUrl=https://sq.laxtonportal.com
+serverVersion=8.2.0.32929
+dashboardUrl=https://sq.laxtonportal.com/dashboard?id=SandBox
+ceTaskId=AXe6Ilf_OOalbCMYv659
+ceTaskUrl=https://sq.laxtonportal.com/api/ce/task?id=AXe6Ilf_OOalbCMYv659
